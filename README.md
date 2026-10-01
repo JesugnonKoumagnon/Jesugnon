@@ -20,7 +20,3 @@ Welcome to my GitHub profile! I am a dedicated and detail-oriented researcher wi
 - Football, Reading, and Music
 
 Feel free to explore my repositories to see my projects and contributions. I am always open to collaboration and new opportunities to apply my skills and knowledge to solve real-world problems.
-
-**Contact:**
-- Email: dkoumagnon@africanschoolofeconomics.com / davkoumagnon2001@outlook.com
-- Linkedin : www.linkedin.com/in/jdjk
